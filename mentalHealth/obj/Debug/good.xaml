@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="mentalHealth.good"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mentalHealth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Button x:ConnectionId='1' Content="Back to mentalyser" HorizontalAlignment="Left" Margin="98,597,0,0" VerticalAlignment="Top"                      RenderTransformOrigin="0.321,0.249" Width="229" Height="87" BorderBrush="{x:Null}" Foreground="#FFF9FAFD" ClickMode="Press">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9CA2E0"/>
+                    <GradientStop Color="#FF1E4CAE" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="201" Margin="39,-20,0,0" VerticalAlignment="Top" Width="401" Source="Assets/images/logo (16).png"/>
+        <Image HorizontalAlignment="Left" Height="165" Margin="10,129,0,0" VerticalAlignment="Top" Width="430" Source="Assets/images/logo (60).png"/>
+        <TextBlock Text="Don't let anyone to change your mood.                    
+                   Dismiss the negative thoughts and stay open to other ideas.                                    
+                   BE CREATIVE!!!                                                                 
+                   
+                           
+                   " 
+                  
+                           TextWrapping="Wrap" FontSize="22"  SelectionHighlightColor="#FF5D26DE" Foreground="#FF090F91" FontStyle="Italic" Margin="25,353,50,292"/>
+    </Grid>
+</Page>
+

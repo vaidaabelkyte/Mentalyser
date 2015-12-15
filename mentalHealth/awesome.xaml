@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="mentalHealth.awesome"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mentalHealth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Button Content="Back to mentalyser" HorizontalAlignment="Left" Margin="91,616,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.321,0.249" Width="250" Height="80" BorderBrush="{x:Null}" Foreground="#FFF9FAFD" ClickMode="Press">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9CA2E0"/>
+                    <GradientStop Color="#FF1E4CAE" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="278" Margin="72,-13,0,0" VerticalAlignment="Top" Width="351" Source="Assets/images/logo (17).png"/>
+        <Image HorizontalAlignment="Left" Height="156" Margin="32,166,0,0" VerticalAlignment="Top" Width="418" Source="Assets/logo (61).png"/>
+        <Image HorizontalAlignment="Left" Height="206" Margin="32,397,0,0" VerticalAlignment="Top" Width="391" Source="Assets/logo (62).png" Stretch="UniformToFill"/>
+        <TextBlock Text="SHARE THE HAPPINESS                                
+                   Inspire others with your smile:)                        
+                   Look around you, maybe there is someone feeling less happy than you. Support and motivate them.                              
+                   
+                                      
+                   ENJOY THE DAY!!!
+                   
+                           
+                   " 
+                  
+                           TextWrapping="Wrap" FontSize="22"  SelectionHighlightColor="#FF5D26DE" Foreground="#FF090F91" FontStyle="Italic" Margin="48,287,27,169"/>
+
+    </Grid>
+</Page>

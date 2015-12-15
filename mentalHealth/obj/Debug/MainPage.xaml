@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="mentalHealth.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mentalHealth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="474.627">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Rectangle Height="150" Grid.Row="0" Fill="#FF2961F7"/>
+        <Rectangle Fill="White" Margin="0,140,0,10" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="158" Margin="-43,10,0,0" VerticalAlignment="Top" Width="238" Source="Assets/images/logo (7).png" Stretch="Fill" RenderTransformOrigin="0.41,0.707" Grid.RowSpan="2"/>
+        <Button x:ConnectionId='1' x:Name="sadButton" Content="" HorizontalAlignment="Left" Margin="10,74,0,0" Grid.Row="1" VerticalAlignment="Top" Width="99" Height="92"                         FontFamily="Global User Interface" ClickMode="Press">
+            <Button.Background>
+                <ImageBrush ImageSource="ms-appx:/Assets/images/yack.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='2' x:Name="mehButton" Content="" HorizontalAlignment="Left" Margin="119,69,0,0" Grid.Row="1" VerticalAlignment="Top" Width="104" Height="103"                         FontFamily="Global User Interface" ClickMode="Press">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/images/meh.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='3' x:Name="goodButton" Content="" HorizontalAlignment="Left" Margin="228,63,0,0" Grid.Row="1" VerticalAlignment="Top" Width="115" Height="109" FontFamily="Global User Interface"                          ClickMode="Press">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/images/good.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='4' x:Name="awesomeButton" Content="" HorizontalAlignment="Left" Margin="343,63,0,0" Grid.Row="1" VerticalAlignment="Top" Width="117" Height="108"                             ClickMode="Press">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/images/owesome.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock x:ConnectionId='5' HorizontalAlignment="Left" Margin="42,173,0,0" Grid.Row="1" TextWrapping="Wrap" Text="YUCK!" VerticalAlignment="Top" Height="30" Width="52" FontSize="16" FontStyle="Italic" Foreground="#FF5766F9" RenderTransformOrigin="0.731,3.299"                                              />
+        <TextBlock HorizontalAlignment="Left" Margin="143,173,0,0" Grid.Row="1" TextWrapping="Wrap" Text="MEH" VerticalAlignment="Top" Height="30" Width="52" FontSize="16" FontStyle="Italic" Foreground="#FF5766F9" RenderTransformOrigin="0.048,0.444"/>
+        <TextBlock HorizontalAlignment="Left" Margin="262,174,0,0" Grid.Row="1" TextWrapping="Wrap" Text="GOOD" VerticalAlignment="Top" Height="30" Width="52" FontSize="16" FontStyle="Italic" Foreground="#FF5766F9"/>
+        <TextBlock HorizontalAlignment="Left" Margin="373,176,0,0" Grid.Row="1" TextWrapping="Wrap" Text="AWESOME" VerticalAlignment="Top" Height="30" Width="74" FontSize="14" FontStyle="Italic" Foreground="#FF5766F9"/>
+        <Button x:ConnectionId='6' x:Name="diary" Content="" HorizontalAlignment="Left" Margin="51.04,210.761,0,0" Grid.Row="1" VerticalAlignment="Top" Width="328.976" Height="189.945" FontWeight="Bold" FontStyle="Italic" FontFamily="Global User Interface" FontSize="14" RenderTransformOrigin="0.496,0.54" UseLayoutRounding="False" d:LayoutRounding="Auto"                     ClickMode="Press">
+            <Button.RenderTransform>
+                <CompositeTransform SkewX="1.646" TranslateX="1.769"/>
+            </Button.RenderTransform>
+            <Button.Foreground>
+                <ImageBrush ImageSource="Assets/images/logo (37).png" Stretch="UniformToFill"/>
+            </Button.Foreground>
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="Assets/images/logo (41).png"/>
+            </Button.Background>
+        </Button>
+        <Button x:ConnectionId='7' Content="" HorizontalAlignment="Left" Margin="32,401,0,0" Grid.Row="1" VerticalAlignment="Top" Width="372" Height="155" FontFamily="Global User Interface"                          ClickMode="Press">
+            <Button.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="Assets/images/logo (63).png"/>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="162" Margin="10,67,0,0" VerticalAlignment="Top" Width="349" RenderTransformOrigin="0.198,0.394" Source="Assets/images/logo (9).png" Stretch="UniformToFill" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="129.851" Margin="96.612,19.401,0,0" VerticalAlignment="Top" Width="355.99" Source="Assets/images/logo (11).png" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Grid.RowSpan="2">
+            <Image.RenderTransform>
+                <CompositeTransform SkewY="0.557" TranslateY="1.234"/>
+            </Image.RenderTransform>
+        </Image>
+
+    </Grid>
+</Page>
+

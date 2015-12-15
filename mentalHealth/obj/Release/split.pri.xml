@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="awesome.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/awesome.xbf">
+				<Candidate type="Path">
+					<Value>awesome.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="good.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/good.xbf">
+				<Candidate type="Path">
+					<Value>good.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="meh.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/meh.xbf">
+				<Candidate type="Path">
+					<Value>meh.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="mentalHealth.xr.xml" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/mentalHealth.xr.xml">
+				<Candidate type="Path">
+					<Value>mentalHealth.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="moodDiary.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/moodDiary.xbf">
+				<Candidate type="Path">
+					<Value>moodDiary.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="tips.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/tips.xbf">
+				<Candidate type="Path">
+					<Value>tips.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="yuck.xbf" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/yuck.xbf">
+				<Candidate type="Path">
+					<Value>yuck.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo (59).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/logo%20%2859%29.png">
+					<Candidate type="Path">
+						<Value>Assets\logo (59).png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo (61).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/logo%20%2861%29.png">
+					<Candidate type="Path">
+						<Value>Assets\logo (61).png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo (62).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/logo%20%2862%29.png">
+					<Candidate type="Path">
+						<Value>Assets\logo (62).png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="images">
+					<NamedResource name="good.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/good.png">
+						<Candidate type="Path">
+							<Value>Assets\images\good.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="happy.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/happy.png">
+						<Candidate type="Path">
+							<Value>Assets\images\happy.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="lesssad.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/lesssad.png">
+						<Candidate type="Path">
+							<Value>Assets\images\lesssad.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (10).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2810%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (10).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (11).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2811%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (11).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (13).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2813%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (13).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (14).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2814%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (14).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (15).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2815%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (15).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (16).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2816%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (16).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (17).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2817%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (17).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (18).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2818%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (18).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (19).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2819%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (19).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (2).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%282%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (2).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (20).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2820%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (20).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (37).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2837%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (37).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (38).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2838%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (38).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (39).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2839%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (39).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (40).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2840%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (40).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (41).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2841%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (41).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (42).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2842%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (42).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (43).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2843%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (43).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (44).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2844%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (44).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (46).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2846%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (46).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (47).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2847%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (47).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (55).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2855%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (55).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (56).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2856%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (56).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (57).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2857%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (57).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (58).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2858%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (58).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (6).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%286%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (6).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (60).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2860%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (60).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (63).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%2863%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (63).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (7).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%287%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (7).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (8).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%288%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (8).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="logo (9).png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/logo%20%289%29.png">
+						<Candidate type="Path">
+							<Value>Assets\images\logo (9).png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="meh.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/meh.png">
+						<Candidate type="Path">
+							<Value>Assets\images\meh.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mehh.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/mehh.png">
+						<Candidate type="Path">
+							<Value>Assets\images\mehh.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="owesome.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/owesome.png">
+						<Candidate type="Path">
+							<Value>Assets\images\owesome.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sadim.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/sadim.png">
+						<Candidate type="Path">
+							<Value>Assets\images\sadim.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="veryhappy.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/veryhappy.png">
+						<Candidate type="Path">
+							<Value>Assets\images\veryhappy.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="yack.png" uri="ms-resource://2188VaidaAbelkyte.Mentalyser-mentalhealthanalyser/Files/Assets/images/yack.png">
+						<Candidate type="Path">
+							<Value>Assets\images\yack.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

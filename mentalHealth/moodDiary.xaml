@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="mentalHealth.moodDiary"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mentalHealth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+
+   
+        <Grid Background="#FFF9F2F2" Height="772" Width="458">
+            <Button Content="Mentalyser" HorizontalAlignment="Left" Margin="241,670,0,0" VerticalAlignment="Top" Click="Button_Click" FontFamily="Global User Interface" IsHitTestVisible="True" Width="156" Height="61" RenderTransformOrigin="0.739,1.014" ClickMode="Press">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF979FF0" Offset="0"/>
+                        <GradientStop Color="#FF17249E" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto"  Background="Transparent"  Margin="34,233,350,110" BorderBrush="#FF242987" Foreground="#FF3280CD">
+                <TextBlock x:Name="yuckTxtBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF162689" FontSize="12"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto"  Background="Transparent"   Margin="133,233,247,110" BorderBrush="#FF242987" Foreground="#FF3280CD">
+                <TextBlock x:Name="mehTxtBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12" Foreground="#FF1C169B"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto"  Background="Transparent"   Margin="241,233,140,110" BorderBrush="#FF242987" Foreground="#FF3280CD">
+
+                <TextBlock x:Name="goodTxtBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12" Foreground="#FF1B14B2"/>
+            </ScrollViewer>
+            <ScrollViewer VerticalScrollBarVisibility="Auto"  Background="Transparent"   Margin="350,233,30,110" BorderBrush="#FF242987" Foreground="#FF3280CD">
+                <TextBlock x:Name="awesomeTxtBlock" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12" Foreground="#FF1D16AA"/>
+            </ScrollViewer>
+            <Button Content="Clear the diary" HorizontalAlignment="Left" Margin="51,670,0,0" VerticalAlignment="Top" Click="Button_Click_1" Foreground="#FFFDFEFF" Width="174" Height="61" ClickMode="Press">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF827DEA" Offset="0"/>
+                        <GradientStop Color="#FF140F74" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Rectangle Fill="#FF2323F5" HorizontalAlignment="Left" Height="152" Stroke="Black" VerticalAlignment="Top" Width="567" Margin="0,-38,-109,0"/>
+            <Image HorizontalAlignment="Left" Height="232" VerticalAlignment="Top" Width="361" Source="Assets/images/logo (7).png" RenderTransformOrigin="0.27,1.855" Margin="-60,-38,0,0"/>
+            <Image HorizontalAlignment="Left" Height="77" Margin="35,143,0,0" VerticalAlignment="Top" Width="65" Source="Assets/images/sadim.png" RenderTransformOrigin="0.08,0.714"/>
+            <Image HorizontalAlignment="Left" Height="87" Margin="129,133,0,0" VerticalAlignment="Top" Width="83" Source="Assets/images/lesssad.png"/>
+            <Image HorizontalAlignment="Left" Height="87" Margin="241,133,0,0" VerticalAlignment="Top" Width="83" Source="Assets/images/happy.png"/>
+            <Image HorizontalAlignment="Left" Height="128" Margin="329,119,0,0" VerticalAlignment="Top" Width="108" Source="Assets/images/veryhappy.png"/>
+            <TextBlock Margin="133,77,10,0" TextWrapping="Wrap" Text="History of moods by date and time" VerticalAlignment="Top" Height="37" Width="315" FontSize="18" HorizontalAlignment="Center" FontWeight="Bold"/>
+
+        </Grid>
+  
+
+</Page>

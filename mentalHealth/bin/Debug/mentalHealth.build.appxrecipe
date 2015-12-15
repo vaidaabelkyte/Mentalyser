@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO-PC</Machine>
+    <WindowsUser>Vaida</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bbd02dae-bc83-4d15-b814-cbbeddc85ea1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\mentalHealth.exe">
+      <PackagePath>mentalHealth.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\good.png">
+      <PackagePath>Assets\images\good.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\happy.png">
+      <PackagePath>Assets\images\happy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\lesssad.png">
+      <PackagePath>Assets\images\lesssad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2810%29.png">
+      <PackagePath>Assets\images\logo %2810%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2811%29.png">
+      <PackagePath>Assets\images\logo %2811%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2813%29.png">
+      <PackagePath>Assets\images\logo %2813%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2814%29.png">
+      <PackagePath>Assets\images\logo %2814%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2815%29.png">
+      <PackagePath>Assets\images\logo %2815%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2816%29.png">
+      <PackagePath>Assets\images\logo %2816%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2817%29.png">
+      <PackagePath>Assets\images\logo %2817%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2818%29.png">
+      <PackagePath>Assets\images\logo %2818%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2819%29.png">
+      <PackagePath>Assets\images\logo %2819%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %282%29.png">
+      <PackagePath>Assets\images\logo %282%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2820%29.png">
+      <PackagePath>Assets\images\logo %2820%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2837%29.png">
+      <PackagePath>Assets\images\logo %2837%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2838%29.png">
+      <PackagePath>Assets\images\logo %2838%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2839%29.png">
+      <PackagePath>Assets\images\logo %2839%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2840%29.png">
+      <PackagePath>Assets\images\logo %2840%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2841%29.png">
+      <PackagePath>Assets\images\logo %2841%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2842%29.png">
+      <PackagePath>Assets\images\logo %2842%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2843%29.png">
+      <PackagePath>Assets\images\logo %2843%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2844%29.png">
+      <PackagePath>Assets\images\logo %2844%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2846%29.png">
+      <PackagePath>Assets\images\logo %2846%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2847%29.png">
+      <PackagePath>Assets\images\logo %2847%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2855%29.png">
+      <PackagePath>Assets\images\logo %2855%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2856%29.png">
+      <PackagePath>Assets\images\logo %2856%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2857%29.png">
+      <PackagePath>Assets\images\logo %2857%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2858%29.png">
+      <PackagePath>Assets\images\logo %2858%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %286%29.png">
+      <PackagePath>Assets\images\logo %286%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2860%29.png">
+      <PackagePath>Assets\images\logo %2860%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %2863%29.png">
+      <PackagePath>Assets\images\logo %2863%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %287%29.png">
+      <PackagePath>Assets\images\logo %287%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %288%29.png">
+      <PackagePath>Assets\images\logo %288%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\logo %289%29.png">
+      <PackagePath>Assets\images\logo %289%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\meh.png">
+      <PackagePath>Assets\images\meh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\mehh.png">
+      <PackagePath>Assets\images\mehh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\owesome.png">
+      <PackagePath>Assets\images\owesome.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\sadim.png">
+      <PackagePath>Assets\images\sadim.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\veryhappy.png">
+      <PackagePath>Assets\images\veryhappy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\images\yack.png">
+      <PackagePath>Assets\images\yack.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\logo %2859%29.png">
+      <PackagePath>Assets\logo %2859%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\logo %2861%29.png">
+      <PackagePath>Assets\logo %2861%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\logo %2862%29.png">
+      <PackagePath>Assets\logo %2862%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\awesome.xbf">
+      <PackagePath>awesome.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\good.xbf">
+      <PackagePath>good.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\meh.xbf">
+      <PackagePath>meh.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\moodDiary.xbf">
+      <PackagePath>moodDiary.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\tips.xbf">
+      <PackagePath>tips.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\yuck.xbf">
+      <PackagePath>yuck.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\mentalHealth.xr.xml">
+      <PackagePath>mentalHealth.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vaida\documents\visual studio 2013\Projects\mentalHealth\mentalHealth\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

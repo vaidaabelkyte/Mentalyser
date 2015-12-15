@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="mentalHealth.yuck"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:mentalHealth"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="474.627" >
+    <Page.Background>
+        <SolidColorBrush Color="{ThemeResource TextBoxBorderColor}"/>
+    </Page.Background>
+
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="472*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:ConnectionId='1' Content="Now go back and change your mood!!!" HorizontalAlignment="Stretch" Margin="37,659,65.667,0" VerticalAlignment="Top"                      Height="79" ClickMode="Press">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9CA2E0"/>
+                    <GradientStop Color="#FF1E4CAE" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image HorizontalAlignment="Left" Height="218" Margin="28,18,0,0" VerticalAlignment="Top" Width="417" Source="Assets/images/logo (14).png"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto"  Background="#FFF6F7F9" Margin="37,300,65.667,140">
+
+            <TextBlock Text="The best way to pick yourself up when you're having a tough day is to get off your butt first of all!!!                                                    
+                             DO SOME EXERCISE!                                  
+                          Go for a walk, a jog, or a bike ride. Play a team sport. Do anything that gets you up and moving. Exercising will make your body release endorphins, those FEEL-GOOD chemicals that enhance your mood and inhibit the body's stress response.                                                 
+                   ny type of exercise or physical activity which requires you to expend energy and contract your muscles will trigger your body to release these helpful endorphins. So even if you don't feel up to a spin class or 5k run, just cleaning the house or going for a 15-20 minute walk can help your body start releasing the endorphins you need to feel happier.
+                           PICK UP THE PHONE AND CALL SOMEONE YOU ENJOY TALKING TO. 
+                                                 Don't just stay in bed and feel sorry for yourself!                                                      
+                           A major factor in happiness is social contact and support. Talking to a friend about your sadness or the situation that has caused your sadness can help lessen the pain because you will know that someone cares about you and your feelings.                            
+                           Research has shown that people who experience major life stresses, such as the loss of a partner or job, come out the other side of the ordeal more easily if they have a network of friends and family on whom they can draw and rely.                                                        
+                           HAVE A HEALTHY SNACK                                                              
+                           Scientists have confirmed that what and when you eat can affect how you feel and your moods. If you're feeling sad, try eating a low-fat, low-protein, but high-carbohydrate snack, such as a toasted English muffin with jam.                                                                      
+                           WRITE A LETTER TO YOURSELF                                    
+                           If you don't feel comfortable talking to someone about your feeling - talk to yourself. Write it down. You will surprised how effective it is.                                                  
+                           SMILE EVEN YOU DON'T FEEL LIKE                                                   
+                           Studies have shown that the very act of smiling can improve your mood and make you feel happier. In addition, laughing releases endorphins, those brain chemicals that enhance your mood.
+                           
+                   " 
+                  
+                           TextWrapping="Wrap" FontSize="20" TextAlignment="Justify" SelectionHighlightColor="#FF5D26DE" Foreground="#FF090F91" FontStyle="Italic"/>
+
+        </ScrollViewer>
+        <TextBlock HorizontalAlignment="Left" Margin="37,273,0,0" TextWrapping="Wrap" Text="Scroll down for more tips" VerticalAlignment="Top"  Foreground="#FF88229E" FontSize="20" Width="306"/>
+        <Image HorizontalAlignment="Left" Height="115" Margin="28,153,0,0" VerticalAlignment="Top" Width="447" Source="Assets/images/logo (58).png" Grid.ColumnSpan="2"/>
+    </Grid>
+
+</Page>
+
